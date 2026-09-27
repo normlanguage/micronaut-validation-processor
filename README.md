@@ -1,3 +1,5 @@
 # Micronaut Validation Processor
 
-`micronaut.validation:processor:1` 固定 Micronaut Validation Processor 5.1.0，并通过 Micronaut 编译期服务发现参与 Norm 应用编译。
+[English](README.md) | [简体中文](README.zh-CN.md)
+
+`micronaut.validation:processor:1` pins Micronaut Validation Processor 5.1.0 and participates in Norm application compilation through Micronaut's compile-time service discovery.
