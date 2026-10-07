@@ -1,7 +1,8 @@
 Module module() {
   return module(
     name: "micronaut.validation.processor",
-    version: 3,
+    version: 4,
+    exports: [],
     binding: jarBinding(
       target: mavenJar(
         group: "io.micronaut.validation",
